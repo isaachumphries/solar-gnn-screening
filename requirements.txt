@@ -1,0 +1,22 @@
+torch>=2.0.0
+torch-geometric>=2.3.0
+# torch-scatter and torch-sparse must match your torch/CUDA version.
+scikit-learn>=1.3.0
+
+pymatgen>=2023.11.0
+mp-api>=0.37.0
+
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+networkx>=3.0
+tqdm>=4.65.0
+joblib>=1.3.0
+requests>=2.31.0
+
+wandb>=0.15.0
+
+jupyter>=1.0.0
+notebook>=7.0.0
+ipywidgets>=8.0.0
